@@ -1,2 +1,5 @@
-💻 Projeto
-Aplicação que possibilita realizar upload de videos e por meio de IA, criar automaticamente títulos chamativos e descrições com um boa indexação.
+# Geração Automática de Títulos para Vídeos
+
+Aplicação que utiliza IA para criar títulos e descrições atraentes e otimizadas para vídeos.
+
+Feito com 💜 by Rocketseat
